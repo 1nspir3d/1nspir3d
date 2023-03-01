@@ -13,5 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/8e28347b515906c767b28b5d4f858e9f" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🔫 Counter-Strike: Global Offensive 🕘 450 hrs 25 mins
+🧟 Left 4 Dead 2                    🕘 82 hrs 41 mins
+🎮 Middle-earth™: Shadow of Mordor™ 🕘 41 hrs 18 mins
+⚔️ Dota 2                           🕘 20 hrs 46 mins
+💻 Wallpaper Engine                 🕘 8 hrs 34 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
