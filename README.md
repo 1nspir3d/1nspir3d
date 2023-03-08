@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 450 hrs 25 mins
 🧟 Left 4 Dead 2                    🕘 85 hrs 8 mins
-🎮 Middle-earth™: Shadow of Mordor™ 🕘 42 hrs 18 mins
+🎮 Middle-earth™: Shadow of Mordor™ 🕘 42 hrs 48 mins
 ⚔️ Dota 2                           🕘 20 hrs 46 mins
 💻 Wallpaper Engine                 🕘 8 hrs 34 mins
 ```
