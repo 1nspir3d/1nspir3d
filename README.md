@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/8e28347b515906c767b28b5d4f858e9f" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 450 hrs 25 mins
-🧟 Left 4 Dead 2                    🕘 96 hrs 38 mins
+🧟 Left 4 Dead 2                    🕘 96 hrs 47 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 45 hrs 37 mins
 ⚔️ Dota 2                           🕘 20 hrs 46 mins
 💻 Wallpaper Engine                 🕘 9 hrs 26 mins
