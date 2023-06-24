@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🧟 Left 4 Dead 2                    🕘 102 hrs 3 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 45 hrs 37 mins
 ⚔️ Dota 2                           🕘 20 hrs 46 mins
-💻 Wallpaper Engine                 🕘 13 hrs 1 mins
+💻 Wallpaper Engine                 🕘 13 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
