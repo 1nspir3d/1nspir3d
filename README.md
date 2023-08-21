@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔫 Counter-Strike: Global Offensive 🕘 450 hrs 25 mins
 🧟 Left 4 Dead 2                    🕘 103 hrs 53 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 45 hrs 37 mins
-💻 Wallpaper Engine                 🕘 20 hrs 51 mins
+💻 Wallpaper Engine                 🕘 21 hrs 51 mins
 ⚔️ Dota 2                           🕘 20 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
