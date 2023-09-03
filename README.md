@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🧟 Left 4 Dead 2                    🕘 103 hrs 54 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 45 hrs 37 mins
 💻 Wallpaper Engine                 🕘 40 hrs 52 mins
-🎮 Vampire Survivors                🕘 35 hrs 9 mins
+🎮 Vampire Survivors                🕘 36 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
