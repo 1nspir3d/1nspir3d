@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 🔫 Counter-Strike: Global Offensive 🕘 450 hrs 25 mins
 🧟 Left 4 Dead 2                    🕘 103 hrs 54 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 45 hrs 37 mins
+🎮 Vampire Survivors                🕘 41 hrs 24 mins
 💻 Wallpaper Engine                 🕘 41 hrs 4 mins
-🎮 Vampire Survivors                🕘 40 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
