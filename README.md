@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```text
 🔫 Counter-Strike 2                 🕘 590 hrs 30 mins
 🧟 Left 4 Dead 2                    🕘 103 hrs 54 mins
-🎮 Vampire Survivors                🕘 46 hrs 28 mins
+🎮 Vampire Survivors                🕘 47 hrs 28 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 45 hrs 37 mins
 💻 Wallpaper Engine                 🕘 41 hrs 23 mins
 ```
