@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🧟 Left 4 Dead 2                    🕘 103 hrs 54 mins
 🎮 Vampire Survivors                🕘 49 hrs 18 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 45 hrs 37 mins
-🎮 Titan Quest Anniversary Edition  🕘 43 hrs 15 mins
+🎮 Titan Quest Anniversary Edition  🕘 44 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
