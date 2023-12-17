@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```text
 🔫 Counter-Strike 2                 🕘 615 hrs 11 mins
 🧟 Left 4 Dead 2                    🕘 103 hrs 54 mins
-🎮 Titan Quest Anniversary Edition  🕘 77 hrs 34 mins
+🎮 Titan Quest Anniversary Edition  🕘 78 hrs 34 mins
 🎮 Vampire Survivors                🕘 49 hrs 45 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 45 hrs 37 mins
 ```
