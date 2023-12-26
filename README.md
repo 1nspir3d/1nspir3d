@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/8e28347b515906c767b28b5d4f858e9f" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike 2                 🕘 635 hrs 13 mins
-🎮 Titan Quest Anniversary Edition  🕘 108 hrs 13 mins
+🎮 Titan Quest Anniversary Edition  🕘 109 hrs 14 mins
 🧟 Left 4 Dead 2                    🕘 103 hrs 54 mins
 🎮 Vampire Survivors                🕘 49 hrs 45 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 45 hrs 37 mins
