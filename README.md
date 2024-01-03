@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🎮 Titan Quest Anniversary Edition  🕘 118 hrs 11 mins
 🧟 Left 4 Dead 2                    🕘 103 hrs 54 mins
 🎮 Vampire Survivors                🕘 49 hrs 45 mins
-🎮 Grim Dawn                        🕘 46 hrs 10 mins
+🎮 Grim Dawn                        🕘 46 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
