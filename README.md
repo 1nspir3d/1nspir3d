@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔫 Counter-Strike 2                 🕘 648 hrs 6 mins
 🎮 Titan Quest Anniversary Edition  🕘 118 hrs 11 mins
 🧟 Left 4 Dead 2                    🕘 103 hrs 54 mins
-🎮 Grim Dawn                        🕘 52 hrs 15 mins
+🎮 Grim Dawn                        🕘 53 hrs 16 mins
 🎮 Vampire Survivors                🕘 49 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
