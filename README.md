@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```text
 🔫 Counter-Strike 2                 🕘 662 hrs 53 mins
 🎮 Titan Quest Anniversary Edition  🕘 118 hrs 11 mins
-🎮 Grim Dawn                        🕘 118 hrs 3 mins
+🎮 Grim Dawn                        🕘 118 hrs 11 mins
 🧟 Left 4 Dead 2                    🕘 103 hrs 54 mins
 🎮 Vampire Survivors                🕘 49 hrs 45 mins
 ```
