@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔫 Counter-Strike 2                 🕘 735 hrs 6 mins
 🎮 Grim Dawn                        🕘 128 hrs 50 mins
 🎮 Titan Quest Anniversary Edition  🕘 118 hrs 11 mins
-🧟 Left 4 Dead 2                    🕘 103 hrs 54 mins
+🧟 Left 4 Dead 2                    🕘 105 hrs 42 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 73 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
