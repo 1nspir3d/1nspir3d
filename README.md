@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/8e28347b515906c767b28b5d4f858e9f" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike 2                 🕘 752 hrs 45 mins
-🎮 Grim Dawn                        🕘 135 hrs 5 mins
+🎮 Grim Dawn                        🕘 135 hrs 44 mins
 🎮 Titan Quest Anniversary Edition  🕘 118 hrs 11 mins
 🧟 Left 4 Dead 2                    🕘 106 hrs 30 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 73 hrs 4 mins
