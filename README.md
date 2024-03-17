@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8e28347b515906c767b28b5d4f858e9f" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 764 hrs 42 mins
+🔫 Counter-Strike 2                 🕘 764 hrs 59 mins
 🎮 Grim Dawn                        🕘 141 hrs 47 mins
 🎮 Titan Quest Anniversary Edition  🕘 118 hrs 11 mins
 🧟 Left 4 Dead 2                    🕘 106 hrs 30 mins
-🎮 Deus Ex: Human Revolution - Director's Cut 🕘 74 hrs 32 mins
+🎮 Deus Ex: Human Revolution - Director's Cut 🕘 75 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
