@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🎮 Grim Dawn                        🕘 141 hrs 47 mins
 🎮 Titan Quest Anniversary Edition  🕘 118 hrs 11 mins
 🧟 Left 4 Dead 2                    🕘 106 hrs 30 mins
-🎮 Deus Ex: Human Revolution - Director's Cut 🕘 76 hrs 32 mins
+🎮 Deus Ex: Human Revolution - Director's Cut 🕘 76 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
