@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```text
 🔫 Counter-Strike 2                 🕘 850 hrs 30 mins
 🎮 Grim Dawn                        🕘 146 hrs 9 mins
-🧟 Left 4 Dead 2                    🕘 120 hrs 10 mins
+🧟 Left 4 Dead 2                    🕘 120 hrs 45 mins
 🎮 Titan Quest Anniversary Edition  🕘 118 hrs 11 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 85 hrs 34 mins
 ```
