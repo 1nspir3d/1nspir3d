@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🎮 Grim Dawn                        🕘 146 hrs 9 mins
 🧟 Left 4 Dead 2                    🕘 122 hrs 19 mins
 🎮 Titan Quest Anniversary Edition  🕘 118 hrs 11 mins
-🎮 Deus Ex: Human Revolution - Director's Cut 🕘 85 hrs 34 mins
+🎮 No Man's Sky                     🕘 85 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
