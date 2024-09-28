@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8e28347b515906c767b28b5d4f858e9f" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 940 hrs 5 mins
+🔫 Counter-Strike 2                 🕘 940 hrs 35 mins
 🎮 Grim Dawn                        🕘 146 hrs 9 mins
 🧟 Left 4 Dead 2                    🕘 125 hrs 51 mins
 🎮 Titan Quest Anniversary Edition  🕘 118 hrs 11 mins
-🎮 No Man's Sky                     🕘 108 hrs 27 mins
+🎮 Risk of Rain 2                   🕘 108 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
