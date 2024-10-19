@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 🔫 Counter-Strike 2                 🕘 977 hrs 10 mins
 🎮 Grim Dawn                        🕘 157 hrs 29 mins
 🧟 Left 4 Dead 2                    🕘 125 hrs 51 mins
+🎮 Risk of Rain 2                   🕘 118 hrs 31 mins
 🎮 Titan Quest Anniversary Edition  🕘 118 hrs 11 mins
-🎮 Risk of Rain 2                   🕘 117 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
