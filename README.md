@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```text
 🔫 Counter-Strike 2                 🕘 983 hrs 26 mins
 🎮 Grim Dawn                        🕘 160 hrs 16 mins
-🎮 Risk of Rain 2                   🕘 129 hrs 57 mins
+🎮 Risk of Rain 2                   🕘 130 hrs 34 mins
 🧟 Left 4 Dead 2                    🕘 125 hrs 51 mins
 🎮 Titan Quest Anniversary Edition  🕘 118 hrs 11 mins
 ```
