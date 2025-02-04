@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🎮 Grim Dawn                        🕘 160 hrs 16 mins
 🎮 Risk of Rain 2                   🕘 133 hrs 32 mins
 🧟 Left 4 Dead 2                    🕘 125 hrs 51 mins
-🎮 No Man's Sky                     🕘 124 hrs 19 mins
+🎮 No Man's Sky                     🕘 124 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
