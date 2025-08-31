@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ```text
 🔫 Counter-Strike 2                 🕘 1120 hrs 22 mins
 🎮 Grim Dawn                        🕘 160 hrs 16 mins
+🎮 Risk of Rain 2                   🕘 148 hrs 53 mins
 🎮 No Man's Sky                     🕘 147 hrs 56 mins
-🎮 Risk of Rain 2                   🕘 147 hrs 53 mins
 🧟 Left 4 Dead 2                    🕘 139 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
