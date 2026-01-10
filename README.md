@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 🔫 Counter-Strike 2                 🕘 1482 hrs 59 mins
 🎮 Grim Dawn                        🕘 160 hrs 16 mins
 🎮 Risk of Rain 2                   🕘 160 hrs 14 mins
+🎮 DARK SOULS™ II: Scholar of the First Sin 🕘 148 hrs 24 mins
 🎮 No Man's Sky                     🕘 147 hrs 56 mins
-🎮 DARK SOULS™ II: Scholar of the First Sin 🕘 147 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
