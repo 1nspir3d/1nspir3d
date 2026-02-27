@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔫 Counter-Strike 2                 🕘 1482 hrs 59 mins
 🎮 Grim Dawn                        🕘 160 hrs 16 mins
 🎮 Risk of Rain 2                   🕘 160 hrs 14 mins
-🎮 Deadlock                         🕘 151 hrs 51 mins
+🎮 Deadlock                         🕘 154 hrs 11 mins
 🎮 DARK SOULS™ II: Scholar of the First Sin 🕘 148 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
