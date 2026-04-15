@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/8e28347b515906c767b28b5d4f858e9f" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike 2                 🕘 1533 hrs 9 mins
-🎮 Deadlock                         🕘 321 hrs 40 mins
+🎮 Deadlock                         🕘 322 hrs 51 mins
 🎮 Grim Dawn                        🕘 160 hrs 16 mins
 🎮 Risk of Rain 2                   🕘 160 hrs 14 mins
 🎮 DARK SOULS™ II: Scholar of the First Sin 🕘 148 hrs 25 mins
