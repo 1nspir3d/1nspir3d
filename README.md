@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🎮 Deadlock                         🕘 335 hrs 12 mins
 🎮 Grim Dawn                        🕘 160 hrs 16 mins
 🎮 Risk of Rain 2                   🕘 160 hrs 14 mins
-🎮 DARK SOULS™ II: Scholar of the First Sin 🕘 148 hrs 25 mins
+🎮 Valheim                          🕘 149 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
