@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8e28347b515906c767b28b5d4f858e9f" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1753 hrs 53 mins
+🔫 Counter-Strike 2                 🕘 1754 hrs 42 mins
 🎮 Deadlock                         🕘 335 hrs 12 mins
 🎮 Grim Dawn                        🕘 160 hrs 16 mins
 🎮 Risk of Rain 2                   🕘 160 hrs 14 mins
-🎮 Valheim                          🕘 151 hrs 46 mins
+🎮 Valheim                          🕘 153 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
