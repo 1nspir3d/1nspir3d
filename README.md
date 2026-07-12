@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔫 Counter-Strike 2                 🕘 1822 hrs 25 mins
 🎮 Deadlock                         🕘 335 hrs 12 mins
 🎮 Valheim                          🕘 194 hrs 32 mins
-🎮 Grim Dawn                        🕘 164 hrs 34 mins
+🎮 Grim Dawn                        🕘 165 hrs 21 mins
 🎮 Risk of Rain 2                   🕘 160 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
