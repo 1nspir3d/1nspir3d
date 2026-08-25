@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```text
 🔫 Counter-Strike 2                 🕘 2003 hrs 11 mins
 🎮 Deadlock                         🕘 335 hrs 12 mins
-🎮 Grim Dawn                        🕘 217 hrs 37 mins
+🎮 Grim Dawn                        🕘 219 hrs 21 mins
 🎮 Valheim                          🕘 194 hrs 32 mins
 🎮 Risk of Rain 2                   🕘 160 hrs 14 mins
 ```
