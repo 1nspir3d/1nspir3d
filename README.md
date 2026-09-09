@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8e28347b515906c767b28b5d4f858e9f" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 2046 hrs 42 mins
+🔫 Counter-Strike 2                 🕘 2048 hrs 44 mins
 🎮 Deadlock                         🕘 335 hrs 12 mins
-🎮 Grim Dawn                        🕘 261 hrs 32 mins
+🎮 Grim Dawn                        🕘 262 hrs 7 mins
 🎮 Valheim                          🕘 194 hrs 32 mins
 🎮 Risk of Rain 2                   🕘 160 hrs 14 mins
 ```
