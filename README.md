@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🎮 Deadlock                         🕘 335 hrs 12 mins
 🎮 Grim Dawn                        🕘 273 hrs 18 mins
 🎮 Valheim                          🕘 194 hrs 32 mins
-🎮 Risk of Rain 2                   🕘 160 hrs 14 mins
+🎮 Risk of Rain 2                   🕘 161 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
